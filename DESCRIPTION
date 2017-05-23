@@ -1,0 +1,11 @@
+Package: RJS
+Type: Package
+Title: Personal R functions for analyse (Basic)
+Version: 0.1.0
+Author: Jeffrey Smeele
+Maintainer: The package maintainer <jsmeele@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL
+Encoding: UTF-8
+LazyData: true
